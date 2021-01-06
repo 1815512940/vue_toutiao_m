@@ -1,8 +1,17 @@
 <template>
   <div id="app">
-    <h1>大佐</h1>
     <router-view/>
   </div>
 </template>
 
-<style lang="less"></style>
+<style lang="less">
+.box {
+  width: 750px;
+  height: 200px;
+  background-color: red;
+}
+.van-button {
+  width: 375px;
+  height: 50px;
+}
+</style>
