@@ -7,7 +7,8 @@ import store from './store'
 import './style/index.css'
 
 import Vant from 'vant'
-import 'vant/lib/index.css'
+
+import 'vant/lib/index.less'
 
 import 'amfe-flexible'
 
